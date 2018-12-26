@@ -1,0 +1,31 @@
+@font-face {
+font-family:'roboto';
+src: url('roboto.eot?#iefix') format('embedded-opentype'),
+	     url('css/fonts/roboto.woff') format('woff'),
+	     url('css/fonts/roboto.ttf')  format('truetype'),
+	     url('css/fonts/roboto.svg#svgFontName') format('svg');
+	}
+body{
+background-color:#f9f9f9;
+font-family: "roboto";
+
+}
+img{
+    border-radius: 50%;
+  float: right;
+
+}
+hr{
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+
+}
+h1{
+  color: #bcbab8;
+
+}
+h3{
+  color: #9d8f8f;
+}
